@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932655762618",
+    "project_id": "homepulse-ac95f",
+    "storage_bucket": "homepulse-ac95f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932655762618:android:fad18373fb5b4966668683",
+        "android_client_info": {
+          "package_name": "com.example.home_pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVEM6iwigArN-ezm7OhpMxAptyliaUsaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
